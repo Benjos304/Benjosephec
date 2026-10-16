@@ -13,8 +13,8 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=tvalcke&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Benjosephec&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjosephec&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=800)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Benjos304&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjos304&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=800)
 
 
 
